@@ -16,7 +16,7 @@ The goal is to explore:
 
 ## Features
 
-![Web Audio Lab Screenshot](audio/Screenshot.jpg)
+![Web Audio Lab Screenshot](static/audio/Screenshot.jpg)
 
 - Load audio files using `decodeAudioData()`
 - Load video/audio containers using `MediaElementSource`
