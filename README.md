@@ -34,7 +34,7 @@ Tested on Safari and Chrome only:
 - Chrome decodes FLAC but not multichannel WAV using `AudioContext.decodeAudioData`
 - Wider browser codec support for media elements via `AudioContext.createMediaElementSource` . Chrome does not support VOB (MPEG-2/AC3)
 - Multichannel WAV above 6-channels, e.g. 7.1 correctly passing channels but not downmixing beyond L+R. A merging/routeing graph would be required to hear beyond first aduio pair.
-- Both mechanisms can handle H.264/AAC .mp4 containers in Safari and Chrome
+- Both loading mechanisms can handle H.264/AAC .mp4 containers in Safari and Chrome
 
 
   ## Running the Project 
