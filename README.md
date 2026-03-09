@@ -16,7 +16,7 @@ The goal is to explore:
 
 ## Features
 
-![Web Audio Lab Screenshot](audio/screenshot.png)
+![Web Audio Lab Screenshot](audio/Screenshot.jpg)
 
 - Load audio files using `decodeAudioData()`
 - Load video/audio containers using `MediaElementSource`
@@ -24,20 +24,6 @@ The goal is to explore:
 - Inspect decoded file metadata
 - Display the Web Audio routing graph
 - Compare browser behaviour across different codecs and channel layouts, .wav, .flac, .vob
-
-
-## Project Structure
-
-  web-audio-lab
-  │
-  ├─ server.py
-  ├─ static
-  │   ├─ index.html
-  │   ├─ app.js
-  │   ├─ style.css
-  │   └─ audio
-  │       └─ test files
-  
 
 
 ## Observations
